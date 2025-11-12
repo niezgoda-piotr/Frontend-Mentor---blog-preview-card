@@ -68,7 +68,7 @@ main {
     display: grid;
     grid-template-columns: 1fr;
     gap: var(--spacing-300);
-    max-width: 26.785714286rem; /* 375px */
+    max-width: 27.428571429rem; /* 384px */
     border: 1px solid var(--color-grey-950);
     background-color: var(--color-white);
     border-radius: var(--corner-radius-200);
@@ -109,6 +109,7 @@ article {
     font-weight: var(--text-preset-1--weight);
     line-height: var(--text-preset-1--line-height);
     color: var(--color-grey-950);
+    margin-bottom: 0.857142857rem;
 }
 
 .content p {
