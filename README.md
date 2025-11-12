@@ -14,7 +14,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ... Vite and some basic html5/css skills
 
 ### What I learned
-
 Another simple project, so nothing special.
 
 ## Author
@@ -24,4 +23,4 @@ Another simple project, so nothing special.
 
 ## Acknowledgments
 Thanks [frontendmentor.io](https://www.frontendmentor.io/)
-So I can focus on implementing stuff instead of trying to figure out what to implement
+So I can focus on implementation rather than idea generation.

@@ -112,6 +112,11 @@ article {
     margin-bottom: 0.857142857rem;
 }
 
+.content h1:hover {
+    color: var(--color-yellow);
+    cursor: pointer;
+}
+
 .content p {
     font-size: var(--text-preset-2--size);
     font-weight: var(--text-preset-2--weight);
